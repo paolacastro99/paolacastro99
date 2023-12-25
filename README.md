@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @paolacastro99
 
-Soy Paola Castro. Actualmente trabajo como desarrolladora en Farmatodo, donde me encargo de desarrollar y mantener aplicaciones web.
-
-Estoy buscando continuamente nuevas formas de aprender y mejorar mis habilidades.
+Soy Paola Castro.
 
 
 
